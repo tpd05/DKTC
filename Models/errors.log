@@ -1,0 +1,1314 @@
+[14-Feb-2025 13:03:39 Europe/Berlin] PHP Warning:  require_once(Models/Person/Person.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 3
+[14-Feb-2025 13:03:39 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Models/Person/Person.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php:3
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php(2): require_once()
+#1 D:\xampp\htdocs\DKTC\index.php(8): require_once('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 3
+[14-Feb-2025 13:03:40 Europe/Berlin] PHP Warning:  require_once(Models/Person/Person.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 3
+[14-Feb-2025 13:03:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Models/Person/Person.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php:3
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php(2): require_once()
+#1 D:\xampp\htdocs\DKTC\index.php(8): require_once('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 3
+[14-Feb-2025 13:03:40 Europe/Berlin] PHP Warning:  require_once(Models/Person/Person.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 3
+[14-Feb-2025 13:03:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Models/Person/Person.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php:3
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php(2): require_once()
+#1 D:\xampp\htdocs\DKTC\index.php(8): require_once('D:\\xampp\\htdocs...')
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 3
+[14-Feb-2025 13:04:28 Europe/Berlin] PHP Warning:  include(Views/Shared/Login/login.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php on line 18
+[14-Feb-2025 13:04:28 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Login/login.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php on line 18
+[14-Feb-2025 13:05:33 Europe/Berlin] PHP Warning:  include(Views/Shared/Login/Login.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php on line 18
+[14-Feb-2025 13:05:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Login/Login.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php on line 18
+[14-Feb-2025 13:05:41 Europe/Berlin] PHP Warning:  include(Views/Shared/Login/Login.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php on line 18
+[14-Feb-2025 13:05:41 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Login/Login.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Login\LoginController.php on line 18
+[14-Feb-2025 13:10:22 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:10:22 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:10:33 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 13:10:33 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 13:10:33 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 13:10:33 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 13:11:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:11:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:12:00 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 13:12:00 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 13:12:00 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:12:00 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:12:19 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 13:12:19 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 13:12:19 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:12:19 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:12:52 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:12:52 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:14:40 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:14:40 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:14:41 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:14:41 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:15:03 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:15:03 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:27:17 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:27:17 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:08 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:08 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:10 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:10 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:10 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:10 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:12 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:12 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:12 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:12 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:12 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:12 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:12 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:12 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:13 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:22 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:22 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:22 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:22 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:28:23 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:28:23 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:00 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:00 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:00 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:00 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:00 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:00 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:01 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:01 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:06 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:50 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:50 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:52 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:52 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:52 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:52 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:53 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:53 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:53 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:53 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:53 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:53 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:53 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:53 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:30:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:30:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:32:03 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:32:03 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:32:26 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:32:26 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:34:49 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:34:49 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:35:02 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:35:02 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:35:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:35:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:35:25 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:35:25 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:35:37 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:35:37 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:26 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:26 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:41 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:41 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:48 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:48 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:49 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:49 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:49 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:49 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:37:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:37:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:38:13 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:38:13 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:38:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:38:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:38:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:38:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:38:19 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:38:19 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:38:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 46
+[14-Feb-2025 13:38:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 51
+[14-Feb-2025 13:38:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 46
+[14-Feb-2025 13:38:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 51
+[14-Feb-2025 13:38:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 46
+[14-Feb-2025 13:38:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 51
+[14-Feb-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 46
+[14-Feb-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 51
+[14-Feb-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 46
+[14-Feb-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 51
+[14-Feb-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 46
+[14-Feb-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 51
+[14-Feb-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 46
+[14-Feb-2025 13:38:48 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 51
+[14-Feb-2025 13:38:58 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:38:58 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:39:00 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:39:00 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:28 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:28 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:28 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:28 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:29 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:29 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:30 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:30 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:30 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:30 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:30 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:30 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:40:31 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:40:31 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:41:26 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:41:26 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:41:26 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:41:26 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:41:26 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:41:26 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:41:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:41:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:41:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:41:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:41:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:41:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:42:02 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:42:02 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:42:09 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:42:09 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:42:22 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:42:22 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:44:36 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:44:36 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:44:45 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:44:45 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:44:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:44:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:44:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:44:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:44:49 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:44:49 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:41 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:41 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:43 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:43 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:43 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:43 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:43 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:43 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:43 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:43 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:44 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:44 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:46:56 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:46:56 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:48:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:48:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:48:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:48:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:48:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:48:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:48:28 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:48:28 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:48:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:48:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:48:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:48:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:48:55 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:48:55 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 13:49:05 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 13:49:05 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 17:48:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 17:48:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:03:38 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:03:38 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:03:38 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:03:38 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:03:38 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:03:38 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:03:40 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:03:40 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:03:40 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:03:40 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:03:41 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:03:41 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:06:03 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:06:03 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:06:05 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:06:05 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:06:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:06:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:06:34 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:06:34 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:06:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:06:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:06:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:06:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:06:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:06:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:06:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:06:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:07:02 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:07:02 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:42 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:42 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:42 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:42 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:43 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:43 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:43 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:43 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:43 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:43 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:44 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:44 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:44 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:44 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:44 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:44 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:45 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:45 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:08:45 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:08:45 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:10:31 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:10:31 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:10:33 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:10:33 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:11:50 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:11:50 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:11:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:11:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:11:52 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:11:52 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:11:52 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:11:52 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:11:59 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:11:59 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:12:45 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:12:45 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:12:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:12:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:12:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:12:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:12:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:12:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:12:50 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:12:50 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:12:57 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:12:57 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:13:04 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:13:04 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:13:12 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:13:12 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:13:21 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:13:21 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:14:10 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 18:14:10 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:14:10 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:14:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:14:13 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:14:13 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:16:42 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:16:42 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:18:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:18:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:18:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:18:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:18:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:18:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:18:42 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:18:42 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:19:12 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:19:12 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:19:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:19:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:19:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:19:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:19:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:19:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:19:34 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:19:34 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:19:43 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:19:43 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:19:45 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 18:19:45 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 18:30:39 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 18:30:39 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:30:39 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:46 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:30:46 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:46 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:47 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:48 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:30:48 Europe/Berlin] PHP Warning:  include(Views/Shared/Layout/layout.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:30:48 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Layout/layout.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 79
+[14-Feb-2025 18:59:56 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:59:56 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 18:59:56 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:00:24 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:00:24 Europe/Berlin] PHP Warning:  include(Views/Shared/Home/profile.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 19:00:24 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Home/profile.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 19:00:24 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:00:24 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:00:26 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:00:26 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:00:26 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:01:09 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:01:09 Europe/Berlin] PHP Warning:  include(Views/Shared/Home/profile.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 19:01:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Home/profile.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 19:01:09 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:01:09 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:01:11 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:01:11 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:01:11 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:01:23 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:01:23 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:01:23 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:05:17 Europe/Berlin] PHP Warning:  Undefined array key "role" in D:\xampp\htdocs\DKTC\index.php on line 25
+[14-Feb-2025 19:05:17 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:05:17 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:05:17 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:06:14 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:14 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:14 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:06:15 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:15 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:15 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:06:16 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:16 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:16 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:06:16 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:16 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:16 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:06:16 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:16 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:16 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:06:16 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:16 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:06:16 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:51 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:51 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:51 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:52 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:52 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:52 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:52 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:52 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:52 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:52 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:52 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:52 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:52 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:52 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:52 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:53 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:53 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:53 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:53 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:53 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:53 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:55 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:55 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:55 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:56 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:56 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:56 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:56 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:56 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:56 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:56 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:56 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:56 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:07:57 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:57 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:07:57 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:08:33 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:08:33 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:08:33 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:08:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:11:03 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:11:03 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:11:12 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:11:12 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:11:12 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:11:12 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:11:20 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:11:21 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:11:21 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:12:45 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:45 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:45 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:12:46 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:46 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:46 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:12:46 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:46 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:46 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:12:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:47 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:12:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:47 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 16
+[14-Feb-2025 19:12:47 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:13:23 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:13:23 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:13:23 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:15:43 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:15:43 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:15:43 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:15:44 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:15:44 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:15:44 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:15:44 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:15:44 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:15:44 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:16:25 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:16:25 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:16:25 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:16:27 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:16:27 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:16:27 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:17:59 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:17:59 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:17:59 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:17:59 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:17:59 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:17:59 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:00 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:00 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:00 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:00 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:00 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:00 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:03 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:03 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:03 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:05 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:06 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:06 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:06 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:06 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:06 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:06 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:06 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:06 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:07 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:07 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:07 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:07 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:07 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:07 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:07 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:07 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:07 Europe/Berlin] Lỗi trong getData(): Tham số không hợp lệ.
+[14-Feb-2025 19:18:30 Europe/Berlin] PHP Warning:  Undefined array key "personID" in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 15
+[14-Feb-2025 19:18:30 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:18:30 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:18:37 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:31:57 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:31:57 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:32:03 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:37:20 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:37:20 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:40:49 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:40:49 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:40:58 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:41:21 Europe/Berlin] PHP Warning:  include(Views/Shared/Home/profile.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 19:41:21 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Home/profile.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 19:41:27 Europe/Berlin] PHP Warning:  include(Views/Shared/Home/profile.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 19:41:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Shared/Home/profile.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 19:41:31 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:41:31 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:41:36 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:41:38 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:41:38 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:41:58 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:42:34 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:42:34 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:42:40 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:42:40 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:43:13 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:43:13 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:43:21 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:43:32 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:43:32 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:46:18 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:46:18 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:46:29 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:46:41 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:46:41 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:48:44 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:48:44 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:49:22 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:49:22 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:49:30 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:49:58 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:49:58 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:50:56 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:50:56 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:51:03 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 19:51:28 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:51:28 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:58:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:58:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:59:00 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 19:59:00 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 19:59:07 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 20:09:38 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:43 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:43 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:46 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:46 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:47 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:47 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:47 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:47 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:49 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:49 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:49 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:49 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:50 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:09:51 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function HomeController::getProfile(), 0 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 32 and exactly 1 expected in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php:162
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(32): HomeController->getProfile()
+#1 D:\xampp\htdocs\DKTC\index.php(43): HomeController->handleRequest()
+#2 {main}
+  thrown in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 162
+[14-Feb-2025 20:24:23 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 20:24:23 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 20:24:31 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 20:28:27 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 20:28:27 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 20:28:32 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 21:06:15 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 21:06:15 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 21:06:20 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 22:16:09 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 22:16:09 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 22:16:16 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 23:02:08 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 23:02:08 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 23:02:16 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 23:26:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PersonController" not found in D:\xampp\htdocs\DKTC\index.php:37
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 37
+[14-Feb-2025 23:27:05 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PersonController" not found in D:\xampp\htdocs\DKTC\index.php:37
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 37
+[14-Feb-2025 23:29:12 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PersonController" not found in D:\xampp\htdocs\DKTC\index.php:37
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 37
+[14-Feb-2025 23:29:13 Europe/Berlin] PHP Fatal error:  Uncaught Error: Class "PersonController" not found in D:\xampp\htdocs\DKTC\index.php:37
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 37
+[14-Feb-2025 23:36:56 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 23:36:56 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 23:37:01 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 23:41:42 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 23:41:42 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 23:41:52 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 23:41:52 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 23:41:52 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[14-Feb-2025 23:42:06 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[14-Feb-2025 23:42:06 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:06 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 23:42:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 23:42:12 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:21 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:21 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:25 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[14-Feb-2025 23:42:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 23:42:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[14-Feb-2025 23:42:26 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[14-Feb-2025 23:42:26 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 10:19:05 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 10:19:05 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 10:19:11 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 10:36:28 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 2 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 155 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(155): PersonModel::updatePerson(1, 'assets/img/avat...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(111): HomeController->handleFileUpload(1)
+#2 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(39): HomeController->upload()
+#3 D:\xampp\htdocs\DKTC\index.php(46): HomeController->handleRequest()
+#4 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 10:36:32 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 2 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 155 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(155): PersonModel::updatePerson(1, 'assets/img/avat...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(111): HomeController->handleFileUpload(1)
+#2 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(39): HomeController->upload()
+#3 D:\xampp\htdocs\DKTC\index.php(46): HomeController->handleRequest()
+#4 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 10:36:43 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 2 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php on line 155 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(155): PersonModel::updatePerson(1, 'assets/img/avat...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(111): HomeController->handleFileUpload(1)
+#2 D:\xampp\htdocs\DKTC\Controllers\Shared\Home\HomeController.php(39): HomeController->upload()
+#3 D:\xampp\htdocs\DKTC\index.php(46): HomeController->handleRequest()
+#4 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 10:52:04 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 8 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php on line 102 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(102): PersonModel::updatePerson(1, '025205003016', 'Tr\xE1\xBA\xA7n Ph\xC6\xB0\xC6\xA1ng...', 'Male', '2005-09-28', '\xC4\x90\xC3\xA0o X\xC3\xA1 - Tha...', '0395724803', 'doantran2809200...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(17): PersonController->update()
+#2 D:\xampp\htdocs\DKTC\index.php(46): PersonController->handleRequest()
+#3 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 11:01:15 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 8 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php on line 102 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(102): PersonModel::updatePerson(1, '025205003016', 'Tr\xE1\xBA\xA7n Ph\xC6\xB0\xC6\xA1ng...', 'Male', '2005-09-28', '\xC4\x90\xC3\xA0o X\xC3\xA1 - Tha...', '0395724803', 'doantran2809200...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(17): PersonController->update()
+#2 D:\xampp\htdocs\DKTC\index.php(46): PersonController->handleRequest()
+#3 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 11:01:46 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 8 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php on line 102 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(102): PersonModel::updatePerson(1, '025205003017', 'Tr\xE1\xBA\xA7n Ph\xC6\xB0\xC6\xA1ng...', 'Male', '2005-09-28', '\xC4\x90\xC3\xA0o X\xC3\xA1 - Tha...', '0395724803', 'doantran2809200...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(17): PersonController->update()
+#2 D:\xampp\htdocs\DKTC\index.php(46): PersonController->handleRequest()
+#3 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 11:02:40 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 8 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php on line 102 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(102): PersonModel::updatePerson(1, '025205003016', 'Tr\xE1\xBA\xA7n Ph\xC6\xB0\xC6\xA1ng...', 'Male', '2005-09-28', '\xC4\x90\xC3\xA0o X\xC3\xA1 - Tha...', '0395724803', 'doantran2809200...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(17): PersonController->update()
+#2 D:\xampp\htdocs\DKTC\index.php(46): PersonController->handleRequest()
+#3 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 11:03:27 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 8 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php on line 102 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(102): PersonModel::updatePerson(1, '025205003016', 'Tr\xE1\xBA\xA7n Ph\xC6\xB0\xC6\xA1ng...', 'Male', '2005-09-28', '\xC4\x90\xC3\xA0o X\xC3\xA1 - Tha...', '0395724803', 'doantran2809200...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(17): PersonController->update()
+#2 D:\xampp\htdocs\DKTC\index.php(46): PersonController->handleRequest()
+#3 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 11:07:22 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 8 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php on line 102 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(102): PersonModel::updatePerson(1, '025205003016', 'Tr\xE1\xBA\xA7n Ph\xC6\xB0\xC6\xA1ng...', 'Male', '2005-09-28', '\xC4\x90\xC3\xA0o X\xC3\xA1 - Tha...', '0395724803', 'doantran2809200...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(17): PersonController->update()
+#2 D:\xampp\htdocs\DKTC\index.php(46): PersonController->handleRequest()
+#3 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 11:08:08 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function PersonModel::updatePerson(), 8 passed in D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php on line 102 and exactly 9 expected in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php:55
+Stack trace:
+#0 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(102): PersonModel::updatePerson(1, '025205003016', 'Tr\xE1\xBA\xA7n Ph\xC6\xB0\xC6\xA1ng...', 'Male', '2005-09-28', '\xC4\x90\xC3\xA0o X\xC3\xA1 - Tha...', '0395724803', 'doantran2809200...')
+#1 D:\xampp\htdocs\DKTC\Controllers\Shared\Person\PersonController.php(17): PersonController->update()
+#2 D:\xampp\htdocs\DKTC\index.php(46): PersonController->handleRequest()
+#3 {main}
+  thrown in D:\xampp\htdocs\DKTC\Models\Person\PersonModel.php on line 55
+[15-Feb-2025 11:11:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:50 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:50 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:50 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:50 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:50 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:50 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:50 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:50 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:52 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:11:52 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:11:58 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 11:29:20 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:29:20 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:29:24 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 11:48:46 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 37
+[15-Feb-2025 11:48:46 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 38
+[15-Feb-2025 11:48:46 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 39
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 37
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 38
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 39
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 37
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 38
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 39
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 37
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 38
+[15-Feb-2025 11:48:47 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 39
+[15-Feb-2025 11:48:48 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 37
+[15-Feb-2025 11:48:48 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 38
+[15-Feb-2025 11:48:48 Europe/Berlin] PHP Warning:  Undefined variable $gender in D:\xampp\htdocs\DKTC\Views\Shared\Home\Profile.php on line 39
+[15-Feb-2025 11:56:39 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:56:39 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:57:01 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 11:57:01 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[15-Feb-2025 11:57:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[15-Feb-2025 11:57:01 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[15-Feb-2025 11:57:01 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 237
+[15-Feb-2025 11:57:06 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[15-Feb-2025 11:57:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 47
+[15-Feb-2025 11:57:17 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 11:57:17 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 11:57:22 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 12:09:17 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 12:09:17 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 12:09:22 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 12:10:06 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 12:10:06 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 12:12:23 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 12:12:23 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 12:12:35 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 12:12:35 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:12:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:12:35 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:12:35 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:12:37 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:12:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:12:44 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:12:44 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:19 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:19 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:25 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:25 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:25 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:27 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:27 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:27 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:27 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:28 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:28 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:28 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:28 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[15-Feb-2025 12:13:28 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:28 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[15-Feb-2025 12:13:29 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 12:13:29 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 12:13:39 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 13:04:09 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 13:04:09 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 13:19:46 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 13:19:46 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 13:20:17 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 13:20:17 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 13:20:21 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[15-Feb-2025 15:26:23 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:26:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:26:26 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:26:26 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:26:27 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:26:27 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:26:28 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:26:28 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:27:06 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:27:06 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:27:08 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:27:08 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:40 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:40 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:40 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:44 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:44 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:45 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:50 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:50 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:50 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:50 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:50 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:29:51 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:18 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:18 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:19 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:19 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:20 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:21 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:21 Europe/Berlin] PHP Warning:  require_once(Controllers/Admin/AdminController.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:21 Europe/Berlin] PHP Fatal error:  Uncaught Error: Failed opening required 'Controllers/Admin/AdminController.php' (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\index.php:10
+Stack trace:
+#0 {main}
+  thrown in D:\xampp\htdocs\DKTC\index.php on line 10
+[15-Feb-2025 15:30:38 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[15-Feb-2025 15:30:38 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[15-Feb-2025 15:30:52 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[18-Feb-2025 18:46:14 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[18-Feb-2025 18:46:14 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[18-Feb-2025 18:46:24 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 04:09:00 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 04:09:00 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 04:09:18 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 04:22:55 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 04:22:55 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 04:23:47 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 04:23:47 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 04:23:56 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 04:42:19 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 04:42:19 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 04:43:06 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:00:41 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:00:41 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:00:49 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:12:53 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:12:53 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:15:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:15:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:15:12 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:15:12 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:15:21 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:16:06 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:06 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:08 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:08 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:09 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:09 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:10 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:10 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:10 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:10 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:10 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:10 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:11 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:12 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:16:12 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:16:17 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:20:23 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:20:23 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:20:29 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:20:34 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:20:34 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:21:17 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:21:51 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:21:51 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:22:05 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:24:06 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:24:06 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:24:10 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:24:16 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:24:16 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:24:34 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[19-Feb-2025 16:27:54 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:27:54 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:27:55 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:27:55 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:28:06 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:28:06 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:28:25 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[19-Feb-2025 16:28:25 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[19-Feb-2025 16:28:32 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[20-Feb-2025 00:58:01 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[20-Feb-2025 00:58:01 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[20-Feb-2025 00:58:10 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[20-Feb-2025 00:58:50 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[20-Feb-2025 00:58:50 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[20-Feb-2025 01:00:26 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[20-Feb-2025 01:45:40 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[20-Feb-2025 01:45:40 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[20-Feb-2025 01:45:51 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[20-Feb-2025 03:15:01 Europe/Berlin] PHP Warning:  Undefined variable $usernamenull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 45
+[20-Feb-2025 03:15:01 Europe/Berlin] PHP Warning:  Undefined variable $passwordnull in D:\xampp\htdocs\DKTC\Views\Shared\Login\Login.php on line 50
+[20-Feb-2025 03:15:17 Europe/Berlin] PHP Warning:  Undefined array key "username" in D:\xampp\htdocs\DKTC\Models\Account\AccountModel.php on line 102
+[20-Feb-2025 03:15:17 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:17 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:17 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[20-Feb-2025 03:15:17 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[20-Feb-2025 03:15:22 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:22 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:27 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:30 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:36 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:15:36 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:16:02 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:16:02 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:16:09 Europe/Berlin] PHP Warning:  include(Views/Manager/Navbar/Navbar.php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:16:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Navbar/Navbar.php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 49
+[20-Feb-2025 03:16:09 Europe/Berlin] PHP Warning:  include(Views/Manager/Home/Home/php): Failed to open stream: No such file or directory in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239
+[20-Feb-2025 03:16:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'Views/Manager/Home/Home/php' for inclusion (include_path='D:\xampp\php\PEAR') in D:\xampp\htdocs\DKTC\Views\Shared\Layout\Layout.php on line 239

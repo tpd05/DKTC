@@ -1,0 +1,22 @@
+.avatar-container {
+margin-bottom: 15px;
+}
+
+#avatar-preview {
+width: 150px;
+height: 150px;
+border-radius: 50%;
+object-fit: cover;
+}
+
+.dropzone {
+border: none;
+padding: 0;
+}
+
+.dz-message button {
+display: block;
+margin: 0 auto;
+background: none;
+border: none;
+}

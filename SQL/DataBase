@@ -1,0 +1,169 @@
+CREATE TABLE Person (
+    personID INT AUTO_INCREMENT PRIMARY KEY,
+    cccd VARCHAR(12) UNIQUE NOT NULL,
+    fullName VARCHAR(100) NOT NULL,
+    gender ENUM('Male', 'Female', 'Other') NOT NULL,
+    birth DATE NOT NULL,
+    address VARCHAR(200) NOT NULL,
+    phoneNumber VARCHAR(10) NOT NULL,
+    email VARCHAR(100) NOT NULL,
+    avatar VARCHAR(100)
+);
+
+CREATE TABLE Role (
+    roleID INT PRIMARY KEY,
+    roleName VARCHAR(100) UNIQUE NOT NULL
+);
+
+CREATE TABLE Faculty (
+    facultyID INT AUTO_INCREMENT PRIMARY KEY,
+    facultyName VARCHAR(100) UNIQUE NOT NULL
+);
+
+CREATE TABLE Subject (
+    subjectID INT AUTO_INCREMENT PRIMARY KEY,
+    subjectName VARCHAR(100) NOT NULL,
+    facultyID INT NOT NULL,
+    credits INT NOT NULL,
+    creditFee DECIMAL(10,2) NOT NULL DEFAULT 500000,
+    Semester INT NOT NULL,
+    FOREIGN KEY (facultyID) REFERENCES Faculty(facultyID)
+);
+
+CREATE TABLE Account (
+    accountID INT AUTO_INCREMENT PRIMARY KEY,
+    username VARCHAR(100) UNIQUE NOT NULL,
+    password VARCHAR(255) NOT NULL,
+    personID INT UNIQUE NOT NULL,
+    roleID INT NOT NULL,
+    FOREIGN KEY (personID) REFERENCES Person(personID),
+    FOREIGN KEY (roleID) REFERENCES Role(roleID)
+);
+
+-- Các bảng con kế thừa từ Account
+CREATE TABLE Admin (
+    adminID INT AUTO_INCREMENT PRIMARY KEY,
+    accountID INT UNIQUE NOT NULL,
+    FOREIGN KEY (accountID) REFERENCES Account(accountID)
+);
+
+CREATE TABLE Leader (
+    leaderID INT AUTO_INCREMENT PRIMARY KEY,
+    accountID INT UNIQUE NOT NULL,
+    FOREIGN KEY (accountID) REFERENCES Account(accountID)
+);
+
+CREATE TABLE Specialist (
+    specialistID INT AUTO_INCREMENT PRIMARY KEY,
+    accountID INT UNIQUE NOT NULL,
+    FOREIGN KEY (accountID) REFERENCES Account(accountID)
+);
+
+CREATE TABLE Manager (
+    managerID INT AUTO_INCREMENT PRIMARY KEY,
+    accountID INT UNIQUE NOT NULL,
+    facultyID INT UNIQUE NOT NULL,
+    FOREIGN KEY (accountID) REFERENCES Account(accountID),
+    FOREIGN KEY (facultyID) REFERENCES Faculty(facultyID)
+);
+
+CREATE TABLE Teacher (
+    teacherID INT AUTO_INCREMENT PRIMARY KEY,
+    accountID INT  UNIQUE NOT NULL,
+    facultyID INT NOT NULL,
+    FOREIGN KEY (accountID) REFERENCES Account(accountID),
+    FOREIGN KEY (facultyID) REFERENCES Faculty(facultyID)
+);
+
+CREATE TABLE Student (
+    studentID INT AUTO_INCREMENT PRIMARY KEY,
+    accountID INT UNIQUE NOT NULL,
+    facultyID INT NOT NULL,
+    currentCredits INT DEFAULT 0,
+    FOREIGN KEY (accountID) REFERENCES Account(accountID),
+    FOREIGN KEY (facultyID) REFERENCES Faculty(facultyID)
+);
+
+CREATE TABLE Class (
+    classID INT AUTO_INCREMENT PRIMARY KEY,
+    className VARCHAR(100) NOT NULL,
+    subjectID INT NOT NULL,
+    teacherID INT NOT NULL,
+    schedule VARCHAR(100),
+    maxStudents INT NOT NULL,
+    currentStudents INT DEFAULT 0,
+    status ENUM('pending', 'approved', 'closed') DEFAULT 'pending',
+    FOREIGN KEY (subjectID) REFERENCES Subject(subjectID),
+    FOREIGN KEY (teacherID) REFERENCES Teacher(teacherID)
+);
+
+CREATE TABLE SubjectRegis (
+    regisID INT AUTO_INCREMENT PRIMARY KEY,
+    studentID INT NOT NULL,
+    classID INT NOT NULL,
+    status ENUM('pending', 'registered', 'cancelled') DEFAULT 'pending',
+    UNIQUE (studentID, classID),
+    FOREIGN KEY (studentID) REFERENCES Student(studentID),
+    FOREIGN KEY (classID) REFERENCES Class(classID)
+);
+
+CREATE TABLE Plan (
+    planID INT AUTO_INCREMENT PRIMARY KEY,
+    planName VARCHAR(100) NOT NULL,
+    details TEXT NOT NULL,
+    createdBy INT NOT NULL,
+    createDate DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (createdBy) REFERENCES Account(accountID)
+);
+
+CREATE TABLE Payment (
+    paymentID INT AUTO_INCREMENT PRIMARY KEY,
+    studentID INT NOT NULL,
+    amount DECIMAL(10,2) NOT NULL,
+    paymentDate DATETIME DEFAULT CURRENT_TIMESTAMP,
+    paidAmount DECIMAL(10,2) NOT NULL DEFAULT 0,
+    status ENUM('paid', 'unpaid') DEFAULT 'unpaid',
+    FOREIGN KEY (studentID) REFERENCES Student(studentID)
+);
+
+-- 1. Chèn vai trò (Role)
+INSERT INTO Role (roleID, roleName) VALUES
+(1, 'Admin'),
+(2, 'Leader'),
+(3, 'Specialist'),
+(4, 'Manager'),
+(5, 'Teacher'),
+(6, 'Student');
+
+-- 2. Chèn khoa (Faculty)
+INSERT INTO Faculty (facultyName) VALUES
+('Công nghệ thông tin'),  -- facultyID = 1
+('Kỹ thuật và Công nghệ'), -- facultyID = 2
+('Kinh tế và Quản trị'), -- facultyID = 3
+('Khoa học cơ bản'), -- facultyID = 4
+('Nghệ thuật và Truyền thông'); -- facultyID = 5
+
+-- 3. Chèn thông tin cá nhân và tài khoản (Person, Account)
+INSERT INTO Person (cccd, fullName, gender, birth, address, phoneNumber, email, avatar) VALUES
+('123456789012', 'Alice Admin', 'Female', '1985-05-15', '123 Admin St', '0987654321', 'alice.admin@example.com', 'alice.jpg'),
+('223456789012', 'Bob Leader', 'Male', '1979-03-20', '456 Leader Rd', '0987654322', 'bob.leader@example.com', 'bob.jpg'),
+('323456789012', 'Carol Specialist', 'Female', '1990-07-10', '789 Specialist Ave', '0987654323', 'carol.specialist@example.com', 'carol.jpg'),
+('423456789012', 'David Manager', 'Male', '1980-12-01', '101 Manager Blvd', '0987654324', 'david.manager@example.com', 'david.jpg'),
+('523456789012', 'Eva Teacher', 'Female', '1992-09-15', '202 Teacher Ln', '0987654325', 'eva.teacher@example.com', 'eva.jpg'),
+('623456789012', 'Frank Student', 'Male', '2000-11-30', '303 Student Cir', '0987654326', 'frank.student@example.com', 'frank.jpg');
+
+INSERT INTO Account (userName, password, personID, roleID) VALUES
+('admin1', '12345678', 1, 1),  -- Admin
+('leader1', '12345678', 2, 2),   -- Leader
+('specialist1', '12345678', 3, 3),  -- Specialist
+('manager1', '12345678', 4, 4),  -- Manager
+('teacher1', '12345678', 5, 5),   -- Teacher
+('student1', '12345678', 6, 6); -- Student
+
+-- 4. Chèn vào các bảng con
+INSERT INTO Admin (accountID) VALUES (1);
+INSERT INTO Leader (accountID) VALUES (2);
+INSERT INTO Specialist (accountID) VALUES (3);
+INSERT INTO Manager (accountID, facultyID) VALUES (4, 1);
+INSERT INTO Teacher (accountID, facultyID) VALUES (5, 1);
+INSERT INTO Student (accountID, facultyID, currentCredits) VALUES (6, 2, 15);
